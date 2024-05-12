@@ -2,7 +2,7 @@ import os
 import json
 
 # 指定包含汉字切图的文件夹
-dataset_folder = "E:/20212333Python\demo09_AnalisisData/test4\pic/all_rotate_pics"
+dataset_folder = "E:/20212333Python\demo09_AnalisisData/test4\pic/datapics"
 
 # 创建一个空字典用于存储标签和对应的图像文件路径
 labels = {}

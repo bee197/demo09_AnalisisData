@@ -4,7 +4,7 @@ import os
 import numpy as np
 
 # 指定输入图像文件夹和输出文件夹
-input_folder = "E:/20212333Python\demo09_AnalisisData/test4\pic/all_rotate_pics"
+input_folder = "E:/20212333Python\demo09_AnalisisData/test4\pic/datapics"
 output_folder = "E:/20212333Python\demo09_AnalisisData/test4\pic/noisy"
 
 # 遍历输入文件夹中的图像文件
